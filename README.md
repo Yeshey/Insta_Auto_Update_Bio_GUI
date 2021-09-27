@@ -1,5 +1,7 @@
 # Insta_Auto_Update_Bio_GUI
 
+**Use only the .py file, the .sh is for linux and doesn't provide full functionality**
+
 Updates Instagram bio with time alive from your anniversary and a phrase automatically
 
 Script uses browser GUI because Instagram doesn't give us any good API
