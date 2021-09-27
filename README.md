@@ -14,5 +14,5 @@ and library:
 
 It's going to change the Bio from the account logged in in your default browser. If none's logged in, it's just gonna do weird stuff
 
-run as any other python script
+run as any other python script  
 `python -u "c:\path\to\script"`
